@@ -1,3 +1,9 @@
+I created this work flow of redux.
+you can increment and decrement counter which will dispatch actions to update the state in store.
+you can store the result value of current counter which will be shown as a list below.
+you can delete stored list by clicking on list row.
+whole workflow is woriking on redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
